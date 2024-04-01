@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codingprojectguy.visitor-badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codingprojectguy.codingprojectguy" />
 ### Hi there 👋
 
 <!--
