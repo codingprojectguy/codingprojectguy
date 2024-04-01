@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">A passionate software developer from California. </h3>
+<h3 align="center">A Fullstack Software Developer from California. </h3>
 
 <br/>
 
@@ -33,6 +33,12 @@
 
  <hr/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,typescript,html,css,github,figma" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,sass,tailwind,redux,graphql,aws,vscode,git,wordpress" /><br>
+</div>
  
  
 <!--
