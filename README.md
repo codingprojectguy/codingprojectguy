@@ -61,12 +61,7 @@
 
   <br/>
   
-<img height=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingprojectguy&repo=convoychat" />
-</a>
-<
-</div>
-
-<br/><br/>
+<br/>
 
 
 <!--
